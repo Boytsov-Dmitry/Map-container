@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/98olauwe3x5evbky?svg=true)](https://ci.appveyor.com/project/Boytsov-Dmitry/map-container)
